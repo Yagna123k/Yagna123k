@@ -11,14 +11,6 @@ Full-stack Developer<br>Open to Collaborative Ventures<br>Delving into AI, ML, N
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Yagna123k&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yagna123k&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-###
-
-<br clear="both">
-
-![Snake animation](https://github.com/Yagna123k/Yagna123k/blob/output/snake.svg)
-
-###
-
 ### ✍️ Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
