@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aspiring Full-stack Developer<br>Open to Collaborative Ventures<br>Delving into AI, ML, NLP<br>Fun Fact: Avid Chess Player ♟️<br>Let's code and create! 🖥️
+Full-stack Developer<br>Open to Collaborative Ventures<br>Delving into AI, ML, NLP<br>Fun Fact: Avid Chess Player ♟️<br>Let's code and create! 🖥️
 
 
 ## 🌐 Socials:
