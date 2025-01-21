@@ -21,5 +21,3 @@ Let's build, innovate, and create the future together! 🚀
 ![](https://github-contributor-stats.vercel.app/api?username=Yagna123k&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-
-![Snake animation](https://github.com/Yagna123k/Yagna123k/blob/output/snake.svg)
